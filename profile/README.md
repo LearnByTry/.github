@@ -3,11 +3,11 @@ Hi! I'm 温照森。I'm going to graduate and join Thoughtworks. Hope this profi
 
 This is me in 2021.
 
-![name](pictures/me-2021.jpg)
+![name](https://github.com/LearnByTry/.github/blob/main/profile/pictures/me-2021.jpg)
 
 My name is easy to remember. The meaning of my name is the warm light shining the forest. 
 
-![name](pictures/name-meaning.jpeg)
+![name](https://github.com/LearnByTry/.github/blob/main/profile/pictures/name-meaning.jpeg)
 
 I aim to be a front-end developer. It's pleasant to build useful web pages and applications.
 
