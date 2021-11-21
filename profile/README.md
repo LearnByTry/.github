@@ -1,12 +1,19 @@
-## Hi there 👋
+# Welcome to the Org of WZS!
+Hi! I'm 温照森。I'm going to graduate and join Thoughtworks. Hope this profile can help you know me.
 
-<!--
+This is me in 2021.
 
-**Here are some ideas to get you started:**
+![name](pictures/me-2021.jpg)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+My name is easy to remember. The meaning of my name is the warm light shining the forest. 
+
+![name](pictures/name-meaning.jpeg)
+
+I aim to be a front-end developer. It's pleasant to build useful web pages and applications.
+
+
+
+### Hobbies
+
+running, ball games, anime
+
